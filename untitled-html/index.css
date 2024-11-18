@@ -1,0 +1,573 @@
+.mac-book-air1-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.mac-book-air1-mac-book-air1 {
+  width: 100%;
+  height: 832px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.mac-book-air1-mainapp {
+  top: 124px;
+  left: 400px;
+  width: 746px;
+  height: 356.21771240234375px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.mac-book-air1-component2 {
+  top: 0px;
+  left: 0px;
+  width: 746px;
+  height: 356.21771240234375px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.mac-book-air1-component1 {
+  top: 0px;
+  left: 0px;
+  width: 710px;
+  height: 539.1988525390625px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.mac-book-air1-rectangle1 {
+  top: 0px;
+  left: 0px;
+  width: 710px;
+  height: 539px;
+  position: absolute;
+  border-radius: 26px;
+}
+.mac-book-air1-bars {
+  top: 481.8372802734375px;
+  left: 85.56227111816406px;
+  width: 539px;
+  height: 26px;
+  position: absolute;
+}
+.mac-book-air1-text10 {
+  top: 30.3164005279541px;
+  left: 43.30914306640625px;
+  color: rgba(255, 255, 255, 1);
+  width: 381px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air1-rectangle21 {
+  top: 215.46299743652344px;
+  left: 38.97822952270508px;
+  width: 178px;
+  height: 34px;
+  position: absolute;
+  border-radius: 6px;
+}
+.mac-book-air1-rectangle22 {
+  top: 278.2612609863281px;
+  left: 254.44122314453125px;
+  width: 199px;
+  height: 47px;
+  position: absolute;
+  border-radius: 6px;
+}
+.mac-book-air1-rectangle23 {
+  top: 278px;
+  left: 510px;
+  width: 138px;
+  height: 47px;
+  position: absolute;
+  border-radius: 6px;
+}
+.mac-book-air1-rectangle24 {
+  top: 215.46299743652344px;
+  left: 278.2612609863281px;
+  width: 175px;
+  height: 34px;
+  position: absolute;
+  border-radius: 6px;
+}
+.mac-book-air1-rectangle25 {
+  top: 215.46299743652344px;
+  left: 509.9651794433594px;
+  width: 161px;
+  height: 34px;
+  position: absolute;
+  border-radius: 6px;
+}
+.mac-book-air1-rectangle26 {
+  top: 133.1756134033203px;
+  left: 325.90130615234375px;
+  width: 246px;
+  height: 34px;
+  position: absolute;
+  border-radius: 6px;
+}
+.mac-book-air1-text12 {
+  top: 98.52830505371094px;
+  left: 325.90130615234375px;
+  color: rgba(255, 255, 255, 1);
+  width: 228px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Light;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air1-polygon1 {
+    top: 138.7px;
+    left: 541.8px;
+    width: 21px;
+    height: 21px;
+    position: absolute;
+}
+.mac-book-air1-text14 {
+  top: 180.815673828125px;
+  left: 278.2612609863281px;
+  color: rgba(255, 255, 255, 1);
+  width: 130px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Light;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air1-text16 {
+  top: 180.815673828125px;
+  left: 505.6342468261719px;
+  color: rgba(255, 255, 255, 1);
+  width: 205px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Light;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air1-text18 {
+  top: 180.815673828125px;
+  left: 38.97822952270508px;
+  color: rgba(255, 255, 255, 1);
+  width: 127px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Light;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air1-text20 {
+  top: 289.0885314941406px;
+  left: 273.9303283691406px;
+  color: rgba(0, 0, 0, 1);
+  width: 161px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Light;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air1-text22 {
+  top: 289px;
+  left: 500px;
+  color: rgba(0, 0, 0, 1);
+  width: 161px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Light;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air1-frame1 {
+  top: 93px;
+  left: 26px;
+  width: 234px;
+  height: 85px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.mac-book-air1-rectangle27 {
+  top: 40px;
+  left: 13px;
+  width: 200px;
+  height: 34px;
+  position: absolute;
+  border-radius: 6px;
+}
+.mac-book-air1-text24 {
+  top: 5.5283050537109375px;
+  left: 17.30914306640625px;
+  color: rgba(255, 255, 255, 1);
+  width: 71px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Light;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air1-frame7 {
+  top: 215px;
+  left: 43px;
+  width: 174px;
+  height: 34px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.mac-book-air1-footer1 {
+  top: 771px;
+  left: 0px;
+  width: 1280px;
+  height: 61px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.mac-book-air1-footer2 {
+  top: 0px;
+  left: 0px;
+  width: 1536px;
+  height: 61px;
+  position: absolute;
+}
+.mac-book-air1-text26 {
+  top: 21px;
+  left: 591px;
+  color: rgba(255, 255, 255, 1);
+  width: 316px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Light;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air1-frame6 {
+  top: 1527px;
+  left: 315px;
+  width: 178px;
+  height: 34px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.mac-book-air1-frame3 {
+  top: 257px;
+  left: 607px;
+  width: 246px;
+  height: 33px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.mac-book-air1-frame2 {
+  top: 256px;
+  left: 324px;
+  width: 200px;
+  height: 34px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.mac-book-air1-frame8 {
+  top: 0px;
+  left: -5px;
+  width: 205px;
+  height: 34px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.mac-book-air1-text28 {
+  top: 344px;
+  left: 332px;
+  color: rgba(142, 136, 136, 1);
+  width: 176px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Light;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air1-text30 {
+  top: 344px;
+  left: 570px;
+  color: rgba(142, 136, 136, 1);
+  width: 176px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Light;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+
+.input {
+    border: none;
+    padding: 1rem;
+    border-radius: 10px;
+    background: #e8e8e8;
+    transition: 0.3s;
+    width: 200px;
+}
+
+.input:focus {
+    outline-color: #e8e8e8;
+    background: #e8e8e8;
+    transition: 0.3s;
+}
+
+/* Dropdown Button */
+.dropbtn {
+    background-color: #04AA6D;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+    /* Links inside the dropdown */
+.dropdown-content a {
+   color: black;
+   padding: 12px 16px;
+   text-decoration: none;
+   display: block;
+}
+
+        /* Change color of dropdown links on hover */
+.dropdown-content a:hover {
+  background-color: #ddd;
+}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.dropdown:hover .dropbtn {
+    background-color: #3e8e41;
+}
+
+/* The container must be positioned relative: */
+/*.custom-select {
+    position: relative;
+    font-family: Arial;
+}
+
+    .custom-select select {
+        display: none; 
+    }
+
+.select-selected {
+    background-color: DodgerBlue;
+}
+
+    
+    .select-selected:after {
+        position: absolute;
+        content: "";
+        top: 14px;
+        right: 10px;
+        width: 0;
+        height: 0;
+        border: 6px solid transparent;
+        border-color: #fff transparent transparent transparent;
+    }
+
+    
+    .select-selected.select-arrow-active:after {
+        border-color: transparent transparent #fff transparent;
+        top: 7px;
+    }
+
+
+.select-items div, .select-selected {
+    color: #ffffff;
+    padding: 8px 16px;
+    border: 1px solid transparent;
+    border-color: transparent transparent rgba(0, 0, 0, 0.1) transparent;
+    cursor: pointer;
+}
+
+
+.select-items {
+    position: absolute;
+    background-color: DodgerBlue;
+    top: 100%;
+    left: 0;
+    right: 0;
+    z-index: 99;
+}
+
+
+.select-hide {
+    display: none;
+}
+
+.select-items div:hover, .same-as-selected {
+    background-color: rgba(0, 0, 0, 0.1);
+}
+
+select {
+    // A reset of styles, including removing the default dropdown arrow appearance: none;
+    background-color: white;
+    border: none;
+    padding: 0 1em 0 0;
+    margin: 0;
+    width: 100%;
+    font-family: inherit;
+    font-size: inherit;
+    cursor: inherit;
+    line-height: inherit;
+    // Stack above custom arrow z-index: 1;
+    // Remove dropdown arrow in IE10 & IE11 // @link https://www.filamentgroup.com/lab/select-css.html &::-ms-expand
+
+{
+    display: none;
+}
+
+outline: none;
+}
+
+select {
+    // A reset of styles, including removing the default dropdown arrow appearance: none;
+    background-color: transparent;
+    border: none;
+    padding: 0 1em 0 0;
+    margin: 0;
+    width: 100%;
+    font-family: inherit;
+    font-size: inherit;
+    cursor: inherit;
+    line-height: inherit;
+    
+*/
+ /*we will use it for appear table in active version
+.fetch-results_hidden {
+	display: none;
+} */
+
+table tr:last-child td {
+    border-bottom: none;
+}
+
+thead {
+    background-color: #61B669;
+    color: white;
+    border-bottom: 4px solid #9FB3FB;
+}
+
+td,
+th {
+    padding: 3px;
+}
+
+fieldset {
+    border-style: none;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
